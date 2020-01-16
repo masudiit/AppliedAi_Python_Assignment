@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>e5ab50ad-0372-4fd4-8b06-4021ef12697f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>7.Product_of_Digits.py</StartupFile>
+    <StartupFile>8.Multiplicative.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -38,6 +38,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="7.Product_of_Digits.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="8.Multiplicative.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
