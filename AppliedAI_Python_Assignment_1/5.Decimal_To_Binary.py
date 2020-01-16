@@ -1,4 +1,6 @@
-
+"""
+5. Write a function that converts a decimal number to binary number
+"""
 
 # decimal to binary 
 def decToBinary(n): 
